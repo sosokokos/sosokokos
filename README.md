@@ -6,4 +6,4 @@ I'm Daniel, a Computer Science grad from Simon Fraser University based in Vancou
 
 - **Languages:** Python, TypeScript, JavaScript, SQL, Java, C/C++/C#
 - **Frameworks & Libraries:** React, Pandas, scikit-learn, Supabase
-- **Tools:** Git, VS Code, Docker, AWS, Excel
+- **Tools:** Git, VS Code, Docker, AWS, Microsoft SQL Server
