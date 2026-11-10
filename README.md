@@ -1,6 +1,9 @@
+## 👋 About Me
 
-### 👋 About Me
-I’m a 4th-year Computing Science student at Simon Fraser University, passionate about solving complex problems across diverse domains. My academic and professional experiences have equipped me with strong expertise in software design, artificial intelligence, algorithms, computer networks, databases, and operating systems.
+I'm Daniel, a Computer Science grad from Simon Fraser University based in Vancouver. I work as a Financial Analyst at HUB International and freelance as a software engineer for Medusa Software, where I help build a demand forecasting platform. Most of what I build sits somewhere between data, finance, and AI.
 
-### 💡 Skills & Technologies
-Proficient in Python, C++, Java, and SQL, with hands-on experience using GitHub, VS Code, Xcode, and Android Studio. I thrive in both individual and collaborative environments, leveraging my technical and leadership skills to create impactful solutions.
+## 💡 Skills & Tools
+
+- **Languages:** Python, TypeScript, JavaScript, SQL, Java, C/C++/C#
+- **Frameworks & Libraries:** React, Pandas, scikit-learn, Supabase
+- **Tools:** Git, VS Code, Docker, AWS, Excel
